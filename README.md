@@ -1,4 +1,4 @@
-#Paralle optimization Analysis for Image Processing
+# Parallel optimization Analysis for Image Processing
 
 This project explores the difference in computing power between a CPU (Central Processing Unit) and a GPU (Graphics Processing Unit). 
 It demonstrates how parallel computing on a GPU can significantly outperform the serial computing of a CPU, using image processing tasks as a benchmark.
